@@ -1,8 +1,6 @@
-## Hi there 👋
+## Kevin Siegall (They/Them)
+### Software Engineer and Roboticist from WPI
 
-I'm Kevin Siegall, a Robotics Engineer and Computer Science from WPI
-
-- Pronouns: They/Them
 - Website: https://k.siegall.tech
 - How to reach me: k@siegall.tech
 <!--
