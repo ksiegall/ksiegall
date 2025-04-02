@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Kevin Siegall, a Robotics Engineer and Computer Science from WPI
+
+- Pronouns: They/Them
+- Website: https://k.siegall.tech
+- How to reach me: k@siegall.tech
 <!--
 **ksiegall/ksiegall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
